@@ -1,0 +1,19 @@
+# Dados brutos e processados
+data/pdfs/
+data/processed/
+
+# Banco de dados local
+database/
+
+# Arquivos temporários do sistema
+*.log
+__pycache__/
+
+# Configurações locais do editor
+.vscode/
+
+# Validação da conexão com o banco de dados
+db_validation.py
+
+# Outros arquivos
+teste_dashboard.pbix
